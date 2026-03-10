@@ -29,8 +29,8 @@ export const regularPrompts: string[] = [
   "Vote for the player with the stinkiest feet the winner has to take the penalty.",
   "_ if you can sing the alphabet backwards without any mistakes in less than 20 seconds give out 2 penalties, otherwise take 2 penalties.",
   "Take a penalty if you had relationship drama this week.",
-  "Take a penalty if you shit talked somebody this week.",
-  "The player with the record for masturbating most in a single day give out 2 penalties you champion.",
+  "Take a penalty if you gossiped about somebody this week.",
+  "The player who has binge-watched the most episodes in a single day gives out 2 penalties, you champion.",
   "Close your eyes and try to recognize each player from their smell. Take a penalty from each player you can't.",
   "_ do 5 pushups.",
   "The first person to touch _'s armpits gives out 2 penalties.",
@@ -95,12 +95,12 @@ export const circleNamingGames: string[] = [
   "Everybody name turnoffs, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Everybody name objects you find in the bathroom, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Everybody name things that are red and white in color, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
-  "List synonyms for the word \"tits\". If you repeat, or can't think of one, take a penalty. _, you start",
+  "List synonyms for the word \"awesome\". If you repeat, or can't think of one, take a penalty. _, you start",
   "Everybody name video game consoles, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Everybody name famous websites, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Everybody name sitcoms, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Everybody name marvel movies, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
-  "Name excuses not to make love to your partners, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
+  "Name excuses to skip a workout, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Name bad fashion trends, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Name things that are yellow, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
   "Everybody give words that have 4 syllables, the first person who repeats or can't think of one takes 4 penalities, _ you start.",
@@ -175,8 +175,8 @@ export const virusEffects: VirusEffect[] = [
 },
 
  {
-  prompt: "_ you must now end all your sentences with \"in my ass\".",
-  activation: "You can stop ending your sentences with \"in my ass\", you freak."
+  prompt: "_ you must now end all your sentences with \"in my dreams\".",
+  activation: "You can stop ending your sentences with \"in my dreams\"."
 },
 
  {

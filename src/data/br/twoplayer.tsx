@@ -14,12 +14,12 @@ export const fiveSecondRulePrompts: string[] = [
   "Everybody name turnoffs. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Everybody name objects you find in the bathroom. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Everybody name things that are red and white in color. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
-  "List synonyms for the word \"tits\". If you repeat or can't think of one, take a penalty. _, you start.",
+  "List synonyms for the word \"awesome\". If you repeat or can't think of one, take a penalty. _, you start.",
   "Everybody name video game consoles. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Everybody name famous websites. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Everybody name sitcoms. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Everybody name Marvel movies. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
-  "Name excuses not to make love to your partners. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
+  "Name excuses to skip a workout. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Name bad fashion trends. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Name things that are yellow. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
   "Everybody give words that have 4 syllables. The first person who repeats or can't think of one takes 4 penalties. _, you start.",
@@ -36,16 +36,16 @@ export const fiveSecondRulePrompts: string[] = [
 export const virusEffects: VirusEffect[] = [
   { prompt: "_ cover your nose until further notice.", activation: "until further notice" },
   { prompt: "_ must flex every round until further notice.", activation: "until further notice" },
-  { prompt: "_ must end every sentence with ‘papi’ until further notice.", activation: "until further notice" },
-  { prompt: "_ must start every sentence with ‘hey sexy’ until further notice.", activation: "until further notice" },
+  { prompt: "_ must end every sentence with ‘boss’ until further notice.", activation: "until further notice" },
+  { prompt: "_ must start every sentence with ‘hey champ’ until further notice.", activation: "until further notice" },
 ];
 
 // Lines to indicate when a curse is lifted (follow other BR file formats)
 export const curseLifteds: string[] = [
   "_ may uncover their nose now.",
   "_ may stop flexing every round.",
-  "_ no longer needs to end sentences with ‘papi’.",
-  "_ no longer needs to start sentences with ‘hey sexy’.",
+  "_ no longer needs to end sentences with ‘boss’.",
+  "_ no longer needs to start sentences with ‘hey champ’.",
 ];
 
 // Standard two‑player prompts

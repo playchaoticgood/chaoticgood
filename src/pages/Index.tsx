@@ -299,7 +299,7 @@ Draw a card, follow the rule, and watch the night spiral into hilarious chaos.  
               This app is for entertainment purposes only. You must choose actions that are safe and legal for your situation. Do not attempt any prompt that could cause harm, property damage, or violate any law or rule.
             </p>
             <p className="font-sans text-[11px] text-white/90 mt-2">
-              By tapping “I Accept”, you confirm you are of legal age to access any (18+) modes (where applicable), accept full responsibility for your choices, and agree that you use this app at your own risk. To the maximum extent permitted by law, we disclaim all liability for loss, injury, or damages arising from use of the app. See our <Link to="/termsconditions" className="underline text-orange-300 hover:text-yellow-200">Terms</Link> for details.
+              {'By tapping "I Accept", you accept full responsibility for your choices and agree that you use this app at your own risk. To the maximum extent permitted by law, we disclaim all liability for loss, injury, or damages arising from use of the app. See our '}<Link to="/termsconditions" className="underline text-orange-300 hover:text-yellow-200">Terms</Link>{' for details.'}
             </p>
             <div className="mt-4 flex justify-center gap-3">
               <Button

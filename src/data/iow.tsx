@@ -17,7 +17,7 @@ export type CategoryKey =
   | "countries"
   | "animals"
   | "f1"
-  | "nsfw"
+  | "wildcard"
 
   | "basketball";
 
@@ -126,15 +126,15 @@ f1: [
     "Eagle", "Shark", "Dolphin", "Crocodile", "Turtle", "Octopus", "Dragon", "Unicorn", "Phoenix", "Sloth"
   ],
  
-nsfw: [
-  "One-Night Stand", "Walk of Shame", "Dirty Talk", "Strip Poker", "Drunk Texting",
-  "Handcuffs", "Naughty Nurse", "Pole Dancing", "Body Shot", "Morning After",
-  "Friends with Benefits", "Threesome", "French Kiss", "Lingerie", "Love Bite",
-  "Sex on the Beach", "Tinder Swipe", "Lap Dance", "Roleplay", "Sugar Daddy",
-  "Wet T-Shirt Contest", "Truth or Dare", "Booty Call", "Mile High Club", "Blindfold",
-  "Pillow Talk", "Erotic Novel", "Kama Sutra", "Whipped Cream", "Massage Oil",
-  "Condom Run", "Strip Tease", "Quickie", "Dirty Dancing", "Spanking",
-  "Bad Pickup Line", "Naughty Selfie", "First Time", "Bedroom Eyes", "Safe Word"
+wildcard: [
+  "Plot Twist", "Cliffhanger", "Double Agent", "Secret Mission", "Undercover",
+  "Time Travel", "Parallel Universe", "Mind Reader", "Shape Shifter", "Invisible",
+  "Haunted House", "Escape Room", "Treasure Map", "Hidden Door", "Secret Passage",
+  "Midnight Snack", "Food Fight", "Pillow Fort", "Blanket Cape", "Couch Potato",
+  "Dance Battle", "Karaoke Night", "Talent Show", "Flash Mob", "Prank War",
+  "Road Trip", "Campfire Story", "Scavenger Hunt", "Hide and Seek", "Tag Team",
+  "Brain Freeze", "Tongue Twister", "Speed Run", "Power Nap", "Alarm Clock",
+  "Photo Bomb", "Awkward Wave", "Wrong Number", "Auto Correct", "Reply All"
 ]
 
 };
